@@ -1,0 +1,166 @@
+Carrier	Type_Engine	Manufacturer	Engine_Model	Delay_Cat
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Moderate Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Minor Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2500SERIES	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Minor Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Minor Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Minor Delay
+AA	Turbo-fan	AIRBUS	CFM56-5B4	Major Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Minor Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Moderate Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2500SERIES	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Moderate Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	V2500SERIES	Minor Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Minor Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	V2500SERIES	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2500SERIES	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Major Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Major Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Major Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Moderate Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Major Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Major Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Minor Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Major Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Minor Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Moderate Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Moderate Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Moderate Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2500SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2500SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Minor Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Minor Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Minor Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Moderate Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Minor Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-jet	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2500SERIES	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Minor Delay
+AA	Turbo-jet	AIRBUS	V2500SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+AA	Turbo-fan	AIRBUS	CFM56 SERIES	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Minor Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Moderate Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
+B6	Turbo-fan	AIRBUS	V2500SERIES	Major Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Minor Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Major Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Major Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Major Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Major Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Major Delay
+B6	Turbo-fan	EMBRAER	CF34-10E6	Major Delay
+AA	Turbo-fan	AIRBUS	V2533-A5	Major Delay
